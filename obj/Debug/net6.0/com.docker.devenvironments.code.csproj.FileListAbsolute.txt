@@ -1,0 +1,15 @@
+/com.docker.devenvironments.code/bin/Debug/net6.0/com.docker.devenvironments.code
+/com.docker.devenvironments.code/bin/Debug/net6.0/com.docker.devenvironments.code.deps.json
+/com.docker.devenvironments.code/bin/Debug/net6.0/com.docker.devenvironments.code.runtimeconfig.json
+/com.docker.devenvironments.code/bin/Debug/net6.0/com.docker.devenvironments.code.dll
+/com.docker.devenvironments.code/bin/Debug/net6.0/com.docker.devenvironments.code.pdb
+/com.docker.devenvironments.code/obj/Debug/net6.0/com.docker.devenvironments.code.csproj.AssemblyReference.cache
+/com.docker.devenvironments.code/obj/Debug/net6.0/com.docker.devenvironments.code.GeneratedMSBuildEditorConfig.editorconfig
+/com.docker.devenvironments.code/obj/Debug/net6.0/com.docker.devenvironments.code.AssemblyInfoInputs.cache
+/com.docker.devenvironments.code/obj/Debug/net6.0/com.docker.devenvironments.code.AssemblyInfo.cs
+/com.docker.devenvironments.code/obj/Debug/net6.0/com.docker.devenvironments.code.csproj.CoreCompileInputs.cache
+/com.docker.devenvironments.code/obj/Debug/net6.0/com.docker.devenvironments.code.dll
+/com.docker.devenvironments.code/obj/Debug/net6.0/refint/com.docker.devenvironments.code.dll
+/com.docker.devenvironments.code/obj/Debug/net6.0/com.docker.devenvironments.code.pdb
+/com.docker.devenvironments.code/obj/Debug/net6.0/com.docker.devenvironments.code.genruntimeconfig.cache
+/com.docker.devenvironments.code/obj/Debug/net6.0/ref/com.docker.devenvironments.code.dll
