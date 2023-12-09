@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "lhJ6jkLj/++2ZQZYdBLR7M29m5EI9LkFyg3Rf+11GUAR16ivYRwKktlUNOHphJZpQsDfLeCaNc8J35t86dGQFg==",
+  "dgSpecHash": "H0XgCnP/W+diWBwz10TjwPABcUNHmYiKZCaA06QJzNPxZ3Ka/mHLYB8jW2/uu8tOzppTSJN14elMNXA+UfGPOg==",
   "success": true,
   "projectFilePath": "/com.docker.devenvironments.code/AzureApi/AzureApi.csproj",
   "expectedPackageFiles": [
-    "/home/vscode/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+    "/home/vscode/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/vscode/.nuget/packages/restsharp/110.2.0/restsharp.110.2.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512"
   ],
   "logs": []
 }
