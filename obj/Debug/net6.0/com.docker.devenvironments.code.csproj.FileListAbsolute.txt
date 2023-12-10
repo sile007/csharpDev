@@ -13,3 +13,8 @@
 /com.docker.devenvironments.code/obj/Debug/net6.0/com.docker.devenvironments.code.pdb
 /com.docker.devenvironments.code/obj/Debug/net6.0/com.docker.devenvironments.code.genruntimeconfig.cache
 /com.docker.devenvironments.code/obj/Debug/net6.0/ref/com.docker.devenvironments.code.dll
+/com.docker.devenvironments.code/bin/Debug/net6.0/RestSharp.dll
+/com.docker.devenvironments.code/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/com.docker.devenvironments.code/bin/Debug/net6.0/System.Text.Json.dll
+/com.docker.devenvironments.code/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/com.docker.devenvironments.code/obj/Debug/net6.0/com.docker.devenvironments.code.csproj.CopyComplete
