@@ -3,7 +3,6 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0
 
 RUN useradd -s /bin/bash -m vscode
 RUN groupadd docker && usermod -aG docker vscode
-RUN dotnet add package restsharp
 
 USER vscode
 
